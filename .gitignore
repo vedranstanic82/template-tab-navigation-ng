@@ -7,7 +7,6 @@ vendor*.ts
 !tools/*.js
 !hooks/after-createProject/*.js
 tsconfig.json
-tsconfig.tns.json
 tsconfig.esm.json
 tsconfig.tns.json
 *.css
